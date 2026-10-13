@@ -6,7 +6,7 @@
 
 * `dags/` — DAG для Airflow (`data_pipeline_dag.py`).
 * `datasets_for_superset/` — SQL-запросы для виртуальных датасетов в Superset.
-* `dashboards/` — скриншот готового дашборда.
+* `dashboards/` — скриншот готового дашборда в Apache Superset.
 
 ## Как устроен сбор данных (Airflow)
 
